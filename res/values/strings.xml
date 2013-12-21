@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">欢迎使用阿信手电筒!</string>
+    <string name="app_name">阿小信大人手电筒</string>
+    <string name="setcolor">更换颜色</string>
+    <string name="setbright">更改亮度</string>
+    <string name="seteffer">退出软件</string>
+    <string name="about">关于我</string>
+    <string name="flash">后置手电</string>
+</resources>
